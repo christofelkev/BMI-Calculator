@@ -14,7 +14,7 @@ import java.text.DecimalFormat;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Class Variable; also called 'fields'
+    // fields
     private TextView resultText;
     private Button calculateButton;
     private RadioButton maleBtn;
